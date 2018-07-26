@@ -1,0 +1,7 @@
+com\carlos\persistence\UserEM.class
+com\carlos\api\AuthService.class
+com\carlos\api\UsersAPI.class
+com\carlos\persistence\EntityManager.class
+com\carlos\models\StatusMessage.class
+com\carlos\api\JSONService.class
+com\carlos\models\User.class
